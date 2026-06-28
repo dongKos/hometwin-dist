@@ -13,12 +13,20 @@
       "tintColor": "A87D54",
       "category": "lifestyle",
       "screenshotURLs": [],
-      "version": "0.2.5",
+      "version": "0.2.6",
       "versionDate": "2026-06-28",
-      "versionDescription": "전체 조명에서 환풍기/냉장고/티비·팬·에어컨 제외(isLight)",
-      "downloadURL": "https://github.com/dongKos/hometwin-dist/releases/download/v0.2.5/HomeTwin.ipa",
-      "size": 1880696,
+      "versionDescription": "집 전체 조명에서 에어컨 작동음 스위치 제외(삐 소리 버그 수정)",
+      "downloadURL": "https://github.com/dongKos/hometwin-dist/releases/download/v0.2.6/HomeTwin.ipa",
+      "size": 1880786,
       "versions": [
+        {
+          "version": "0.2.6",
+          "date": "2026-06-28",
+          "localizedDescription": "집 전체 조명에서 에어컨 작동음 스위치 제외(삐 소리 버그 수정)",
+          "downloadURL": "https://github.com/dongKos/hometwin-dist/releases/download/v0.2.6/HomeTwin.ipa",
+          "size": 1880786,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "0.2.5",
           "date": "2026-06-28",
