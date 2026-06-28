@@ -1,0 +1,40 @@
+{
+  "name": "부농이네집",
+  "identifier": "com.dongkos.hometwin.source",
+  "sourceURL": "https://raw.githubusercontent.com/dongKos/hometwin-dist/main/altstore-source.json",
+  "apps": [
+    {
+      "name": "부농이네집",
+      "bundleIdentifier": "com.dongkos.HomeTwin",
+      "developerName": "dongKos",
+      "subtitle": "우리 집 IoT 컨트롤러",
+      "localizedDescription": "Home Assistant 허브로 집 안 조명·커튼·에어컨·로봇청소기를 한 곳에서 제어하는 앱.",
+      "iconURL": "https://raw.githubusercontent.com/dongKos/hometwin-dist/main/icon.png",
+      "tintColor": "A87D54",
+      "category": "lifestyle",
+      "screenshotURLs": [],
+      "version": "0.2.1",
+      "versionDate": "2026-06-28",
+      "versionDescription": "화이트 & 우드 테마, 부농이 아이콘, 목록 순서 고정, 로보락 주방 배치, 리치 패널 구분선.",
+      "downloadURL": "https://github.com/dongKos/hometwin-dist/releases/download/v0.2.1/HomeTwin.ipa",
+      "size": 1841588,
+      "versions": [
+        {
+          "version": "0.2.1",
+          "date": "2026-06-28",
+          "localizedDescription": "화이트 & 우드 테마, 부농이 아이콘, 목록 순서 고정, 로보락 주방 배치, 리치 패널 구분선.",
+          "downloadURL": "https://github.com/dongKos/hometwin-dist/releases/download/v0.2.1/HomeTwin.ipa",
+          "size": 1841588,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "집 안 Home Assistant 허브(LAN)에 연결합니다."
+        }
+      }
+    }
+  ],
+  "news": []
+}
