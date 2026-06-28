@@ -13,12 +13,20 @@
       "tintColor": "A87D54",
       "category": "lifestyle",
       "screenshotURLs": [],
-      "version": "0.2.2",
+      "version": "0.2.3",
       "versionDate": "2026-06-28",
-      "versionDescription": "각 방 상단 전체 조명 켜기/끄기 마스터 토글",
-      "downloadURL": "https://github.com/dongKos/hometwin-dist/releases/download/v0.2.2/HomeTwin.ipa",
-      "size": 1855674,
+      "versionDescription": "전체 조명 마스터를 카드 전체 버튼으로",
+      "downloadURL": "https://github.com/dongKos/hometwin-dist/releases/download/v0.2.3/HomeTwin.ipa",
+      "size": 1855894,
       "versions": [
+        {
+          "version": "0.2.3",
+          "date": "2026-06-28",
+          "localizedDescription": "전체 조명 마스터를 카드 전체 버튼으로",
+          "downloadURL": "https://github.com/dongKos/hometwin-dist/releases/download/v0.2.3/HomeTwin.ipa",
+          "size": 1855894,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "0.2.2",
           "date": "2026-06-28",
