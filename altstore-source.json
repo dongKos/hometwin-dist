@@ -13,12 +13,20 @@
       "tintColor": "A87D54",
       "category": "lifestyle",
       "screenshotURLs": [],
-      "version": "0.2.3",
+      "version": "0.2.4",
       "versionDate": "2026-06-28",
-      "versionDescription": "전체 조명 마스터를 카드 전체 버튼으로",
-      "downloadURL": "https://github.com/dongKos/hometwin-dist/releases/download/v0.2.3/HomeTwin.ipa",
-      "size": 1855894,
+      "versionDescription": "상태 polling+진입 신규조회+레이스차단, 집 전체 조명 버튼(confirm)",
+      "downloadURL": "https://github.com/dongKos/hometwin-dist/releases/download/v0.2.4/HomeTwin.ipa",
+      "size": 1878182,
       "versions": [
+        {
+          "version": "0.2.4",
+          "date": "2026-06-28",
+          "localizedDescription": "상태 polling+진입 신규조회+레이스차단, 집 전체 조명 버튼(confirm)",
+          "downloadURL": "https://github.com/dongKos/hometwin-dist/releases/download/v0.2.4/HomeTwin.ipa",
+          "size": 1878182,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "0.2.3",
           "date": "2026-06-28",
